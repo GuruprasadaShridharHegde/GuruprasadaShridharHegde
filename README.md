@@ -1,16 +1,30 @@
-### Hi there ✨I'm Guruprasada Shridhar Hegde ✨
+### Hi there 👋I'm Guruprasada Shridhar Hegde ✨
+![kid-typing-gif](https://user-images.githubusercontent.com/85961223/147409984-eca97ac6-0182-48fc-895c-5feda1a819f1.gif)
 
-:
-✨  
+- 🌱 I’m currently persuing **🎓BE in ECE @Dayananda Sagar College Of Engineering Bangalore** [Batch 2022]
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **TFP Project**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Conversational AI Chatbots**
+
+- 👯 I’m looking to collaborate on **MNC's or StartUp's**
+
+- 🤔 I’m looking for help with **Knowledge Transfer**
+
+- 💬 Ask me about **Anything**. Answer if I know or else get back to you later.
+
+- 📫 How to reach me: 
+    #### 📧 gshegde6@gmail.com 🔗https://www.linkedin.com/in/guruprasadashridharhegde/ 
+    #### Mobile No:IN+91 📲 9482152447 / 7892991106      
+    
+- 🛠 Skills: Programing in Python/C/Java >> OOPS >> DBMS >> Embedded Systems >> SQL
+
+- ⁉️ Interests: Software exploring, digital electronics, circuit designing.
+
+- 📍 Hobbies: Drawing, driving, music listening and play games.
+
+- ⚡ Real fact: **If you expect disappointment, then you can never really be disappointed**
+
+- 🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.
+
 
