@@ -23,7 +23,7 @@
 
 - 📍 Hobbies: Drawing, driving, music listening and play games.
 
-- ⚡ Real fact: **If you expect disappointment, then you can never really be disappointed**
+- ⚡ Real fact: **If you expect disappointment, then you can never really be disappointed.**
 
 - 🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.
 
