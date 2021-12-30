@@ -1,4 +1,4 @@
-### Hi there 👋I'm Guruprasada Shridhar Hegde ✨
+### Hi there 👋I'm Guruprasada Shridhar Hegde ✨ 
 ![kid-typing-gif](https://user-images.githubusercontent.com/85961223/147409984-eca97ac6-0182-48fc-895c-5feda1a819f1.gif)
 
 - 🌱 I’m currently persuing **🎓BE in ECE @Dayananda Sagar College Of Engineering Bangalore** [Batch 2022]
@@ -31,3 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GuruprasadaShridharHegde&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadaShridharHegde)](https://github.com/GuruprasadaShridharHegde/github-readme-stats)
+  
+  
