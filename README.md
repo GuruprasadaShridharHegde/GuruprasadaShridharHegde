@@ -32,11 +32,6 @@
    <h3 align="left">Connect with me:</h3>
    <p align="left">
   
-   <a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/guruprasadashridharhegde/" target="https://www.linkedin.com/in/guruprasadashridharhegde/"><img align="center" src="https://github.com/GuruprasadaShridharHegde/linkedin.svg" alt="https://www.linkedin.com/in/guruprasadashridharhegde/" height="30" width="30" /></a>
-   <a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
- </p>
- 
- - #### 📧 gshegde6@gmail.com 🔗https://www.linkedin.com/in/guruprasadashridharhegde/ 
+    #### 📧 gshegde6@gmail.com 🔗https://www.linkedin.com/in/guruprasadashridharhegde/ 
     #### Mobile No:IN+91 📲 9482152447 / 7892991106 
   
