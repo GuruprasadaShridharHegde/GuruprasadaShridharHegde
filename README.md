@@ -1,5 +1,8 @@
-### Hi there 👋I'm Guruprasada Shridhar Hegde ✨ 
-![kid-typing-gif](https://user-images.githubusercontent.com/85961223/147409984-eca97ac6-0182-48fc-895c-5feda1a819f1.gif)
+### Hi there 👋I'm Guruprasada Shridhar Hegde ✨   
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guru&label=Profile%20views&color=0e75b6&style=flat" alt="guru" /> </p>
+
+![kid-typing-gif](https://user-images.githubusercontent.com/85961223/147409984-eca97ac6-0182-48fc-895c-5feda1a819f1.gif)  
 
 - 🌱 I’m currently persuing **🎓BE in ECE @Dayananda Sagar College Of Engineering Bangalore** [Batch 2022]
 
