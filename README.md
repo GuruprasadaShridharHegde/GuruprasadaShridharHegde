@@ -42,4 +42,4 @@
     
     ####Mobile No:IN+91 📲 9482152447 / 7892991106 
   
-  <a href="mailto:gshegde6@gmail.com">![gshegde6@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="mailto: gshegde6@gmail.com">![gshegde6@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
