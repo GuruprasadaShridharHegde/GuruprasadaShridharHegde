@@ -28,7 +28,7 @@
 - 🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasadashridharhegde&show_icons=true&locale=en&layout=compact" alt="guruprasadashridharhegde" /></p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guruprasadashridharhegde&show_icons=true&locale=en" alt="guruprasadashridharhegde" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasadashridharhegde&show_icons=true&locale=en&layout=compact" alt="guruprasadashridharhegde" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=guruprasadashridharhegde&show_icons=true&locale=en" alt="guruprasadashridharhegde" /></p>
 
 
  
