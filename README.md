@@ -43,4 +43,6 @@
     #### 📧 gshegde6@gmail.com 🔗https://www.linkedin.com/in/guruprasadashridharhegde/ 
     #### Mobile No:IN+91 📲 9482152447 / 7892991106 
   
-  
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=9482152447">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
