@@ -37,10 +37,9 @@
    <!-- Connect with me -->
    <h3 align="left">Connect with me:</h3>
    <p align="left">
-  <a href="https://linkedin.com/in/guruprasadashridharhegde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasadashridharhegde/" height="30" width="40" /></a>  <a target="_blank" href="https://api.whatsapp.com/send?phone=9482152447"> <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><a href="mailto:gshegde6@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-    
+  <a href="https://linkedin.com/in/guruprasadashridharhegde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasadashridharhegde/" height="30" width="40" /></a>  <a target="_blank" href="https://api.whatsapp.com/send?phone=9482152447"> <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> 
    
     
-    #### Mobile No:IN+91 📲 9482152447 / 7892991106 
+    ####Mobile No:IN+91 📲 9482152447 / 7892991106 
   
-  
+  <a href="mailto:gshegde6@gmail.com">![gshegde6@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
