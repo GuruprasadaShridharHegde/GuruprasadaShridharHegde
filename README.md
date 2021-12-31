@@ -37,7 +37,7 @@
    <!-- Connect with me -->
    <h3 align="left">Connect with me:</h3>
    <p align="left">
-  <a href="https://linkedin.com/in/guruprasadashridharhegde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasadashridharhegde/" height="25" width="40" /></a>  <a target="_blank" href="https://api.whatsapp.com/send?phone= 7892991106"> <img align="left" alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> 
+  <a href="https://linkedin.com/in/guruprasadashridharhegde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasadashridharhegde/" height="25" width="40" /></a>  <a target="_blank" href="https://api.whatsapp.com/send?phone=  7892991106"> <img align="left" alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> 
   
     ### Gmail: 📧gshegde6@gmail.com 
     ### Mobile No: IN+91 📲 9482152447 / 7892991106 
