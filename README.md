@@ -19,7 +19,7 @@
     
 - 🛠 Skills: Programing in Python/C/Java >> OOPS >> DBMS >> Embedded Systems >> SQL
 
-- ⁉️ Interests: Software exploring, digital electronics, circuit designing.
+- ⁉️ Interests: Software exploring, Programming, digital electronics, circuit designing.
 
 - 📍 Hobbies: Drawing, driving, music listening and play games.
 
