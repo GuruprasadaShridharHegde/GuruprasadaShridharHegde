@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently persuing **🎓BE in ECE @Dayananda Sagar College Of Engineering Bangalore** [Batch 2022]
 
-- 🔭 I’m currently working on **TFP Project**
+- 🔭 I’m currently working on **Protection and surveillance system for farmland(PSF) Project**
 
 - 🌱 I’m currently learning **Conversational AI Chatbots**
 
