@@ -42,5 +42,5 @@
   ### Gmail: 📧gshegde6@gmail.com 
   ### Mobile No: IN+91 📲 9482152447 / 7892991106 
     
- <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[https://www.linkedin.com/in/guruprasadashridharhegde/]" />
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://https://www.linkedin.com/in/guruprasadashridharhegde/)
  
