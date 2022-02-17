@@ -41,4 +41,6 @@
       
   ### Gmail: 📧gshegde6@gmail.com 
   ### Mobile No: IN+91 📲 9482152447 / 7892991106 
+    
+ <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
  
