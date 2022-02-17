@@ -36,7 +36,7 @@
    <h3 align="left">Connect with me:</h3>
    <p align="left">
   <a  href="https://api.whatsapp.com/send?phone=919482152447"> <img align="left" alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> </a>
-    
+---------------------------------    
   
       
   ### Gmail: 📧gshegde6@gmail.com 
