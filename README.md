@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Anything**. Answer if I know or else get back to you later.  
     
-- 🛠 Skills: Programing in Python/C/Java >> OOPS >> DBMS >> Embedded Systems >> SQL
+- 🛠 Skills: Programing in Python/C/Java >> OOPS >> DBMS >> Embedded Systems >> MYSQL
 
 - ⁉️ Interests: Software exploring, Programming, digital electronics, circuit designing.
 
