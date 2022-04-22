@@ -28,7 +28,7 @@
 - 🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.
 
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruprasadaShridharHegde&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadaShridharHegde&theme=tokyonight)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruprasadaShridharHegde&show_icons=true&theme=tokyonight)
 
 
  
