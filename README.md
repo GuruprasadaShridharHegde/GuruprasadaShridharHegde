@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Anything**. Answer if I know or else get back to you later.  
     
-- 🛠 Skills: Programing in Python/C/Java >> OOPS >> DBMS >> Embedded Systems >> MYSQL
+- 🛠 Skills: Programing in Python/C >> OOPS >> DBMS >> Embedded Systems >> MYSQL
 
 - ⁉️ Interests: Software exploring, Programming, digital electronics, circuit designing.
 
@@ -26,6 +26,8 @@
 - ⚡ Real fact: **If you expect disappointment, then you can never really be disappointed.**
 
 - 🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.
+
+- ❄ Insightful: Your future is created by what you do today, not tomorrow
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruprasadaShridharHegde&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadaShridharHegde&theme=tokyonight)
