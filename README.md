@@ -1,4 +1,8 @@
+---
+[![](https://visitcount.itsvg.in/api?id=GuruprasadaShridharHegde&icon=5&color=1)](https://visitcount.itsvg.in)
+
 ![2](https://user-images.githubusercontent.com/85961223/184620652-a98eb067-f232-46d8-a654-5475d4db757e.jpg)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GuruprasadaShridharHegde&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -28,8 +32,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=GuruprasadaShridharHegde&icon=5&color=1)](https://visitcount.itsvg.in)
+
  
    <!-- Connect with me -->
    <h3 align="left">Connect with me:</h3>
