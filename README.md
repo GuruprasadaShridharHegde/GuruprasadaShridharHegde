@@ -42,14 +42,13 @@
 
 
  
-   <!-- Connect with me -->
+   
    <h3 align="left">Connect with me:</h3>
    <p align="left">
   <a  href="https://api.whatsapp.com/send?phone=919482152447"> <img align="left" alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> </a>
----->> ✨WhatsApp Me  
+
     
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guruprasadashridharhegde/)   
-#### Gmail: 📧gshegde6@gmail.com 
+
 
     
 ## Snake eating my contribution graph
