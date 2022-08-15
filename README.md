@@ -1,8 +1,10 @@
-### Hi there 👋I'm Guruprasada Shridhar Hegde ✨ [ Python Developer ]
+![2](https://user-images.githubusercontent.com/85961223/184620652-a98eb067-f232-46d8-a654-5475d4db757e.jpg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GuruprasadaShridharHegde&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![kid-typing-gif](https://user-images.githubusercontent.com/85961223/147409984-eca97ac6-0182-48fc-895c-5feda1a819f1.gif)  
+
+
 
 # 💫 About Me:
 <br>🌱Presently I'm Python Developer @Saarthi.ai<br><br>👨‍🎓 Completed BE in ECE @Dayananda Sagar College Of Engineering Bangalore [Batch 2022]<br><br>🔭 I’m currently working on Python programming, Rasa platform.<br><br>🌱 I’m currently learning to Django framework.<br><br>👯 I’m looking to collaborate on MNC's or Startup's<br><br>🤔 I’m looking for help with Knowledge Transfer<br><br>💬 Ask me about anything, within my boundaries.<br><br>🛠 Skills: Programing in Python/C >> OOPS >> DBMS >> Embedded Systems >> SQL<br><br>⁉️ Interests: Software exploring, Programming, digital electronics, circuit designing.<br><br>📍 Hobbies: Drawing, driving, music listening and play games.<br><br>⚡ Real fact: If you expect disappointment, then you can never really be disappointed.<br><br>🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.<br><br>❄ Insightful: Your future is created by what you do today, not tomorrow<br><br>
