@@ -37,7 +37,7 @@
     
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guruprasadashridharhegde/)   
 #### Gmail: 📧gshegde6@gmail.com 
-#### Mobile No: IN+91 📲 9482152447 / 7892991106 
+
     
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/GuruprasadaShridharHegde/GuruprasadaShridharHegde/blob/output/github-contribution-grid-snake.gif)
