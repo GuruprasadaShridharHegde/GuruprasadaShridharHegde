@@ -41,8 +41,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
     
-## Snake eating my contribution graph
-![snake gif](https://github.com/GuruprasadaShridharHegde/GuruprasadaShridharHegde/blob/output/github-contribution-grid-snake.gif)
-    
 
  
