@@ -39,7 +39,7 @@
 ---
 # Oh God!! My Contributions, snake eating it😲
 
-![snake gif](https://github.com/guruprasadashridharhegde/guruprasadashridharhegde/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/GuruprasadaShridharHegde/GuruprasadaShridharHegde/blob/output/github-contribution-grid-snake.gif)
 
 
     
