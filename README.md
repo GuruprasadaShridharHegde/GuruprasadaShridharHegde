@@ -36,8 +36,7 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
----
-# Oh God!! My Contributions, snake eating it😲
+--- 
 ![snake gif](https://github.com/GuruprasadaShridharHegde/GuruprasadaShridharHegde/blob/output/github-contribution-grid-snake.gif)
 
 
