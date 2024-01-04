@@ -13,7 +13,7 @@
 
 ---
 
-# 💫 About Me :
+# 💫 About Me :-
 <br>🌱Presently I'm Python Developer <br><br>👨‍🎓 Completed BE in ECE @Dayananda Sagar College Of Engineering Bangalore [Batch 2022]<br><br>🔭 I’m currently working on Python programming, Rasa platform.<br><br>🌱 I’m currently learning to FastAPI framework.<br><br>👯 I’m looking to collaborate on MNC's or Startup's<br><br>🤔 I’m looking for help with Knowledge Transfer<br><br>💬 Ask me about anything, within my boundaries.<br><br>🛠 Skills: Python Flask FastAPI SQL NoSQL,OOP's, ORM, HTML5, CSS3, JavaScript,Git, GitHub, SVN, MongoDB, PyTest,REST API, Redis, NGINX ,Rasa,Postman API, Docker. <br><br>⁉️ Interests: Software exploring, Programming, digital electronics, circuit designing.<br><br>📍 Hobbies: Drawing, driving, music listening and play games.<br><br>⚡ Real fact: If you expect disappointment, then you can never really be disappointed.<br><br>🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.<br><br>❄ Insightful: Your future is created by what you do today, not tomorrow<br><br>
 
 ---
