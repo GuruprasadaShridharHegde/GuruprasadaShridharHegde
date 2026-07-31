@@ -1,95 +1,283 @@
-[![](https://visitcount.itsvg.in/api?id=GuruprasadaShridharHegde&icon=9&color=4)](https://visitcount.itsvg.in)
+<div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Guruprasada%20Shridhar%20Hegde&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Pipeline%20Architect%20%E2%80%A2%20Cloud%20Builder&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
+<!-- Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+Transforming+Raw+Data+Into+Business+Intelligence;%F0%9F%94%A5+Building+Fault-Tolerant+Data+Pipelines;%F0%9F%9A%80+Scaling+Cloud+Infrastructure+with+AWS;%F0%9F%8E%AF+Automating+Everything+That+Can+Be+Automated" alt="Typing SVG" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --->
+<br/>
 
+<!-- Animated Badges -->
+<img src="https://img.shields.io/badge/Focus-Data%20Engineering-00D9FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Lives-Bangalore%2C%20India-FF6B6B?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Education-B.E%20in%20ECE-FFD93D?style=for-the-badge&labelColor=000000" />
 
-![2](https://user-images.githubusercontent.com/85961223/184620652-a98eb067-f232-46d8-a654-5475d4db757e.jpg)
+<br/><br/>
 
----
+<!-- Profile Counters -->
+<img src="https://komarev.com/ghpvc/?username=GuruprasadaShridharHegde&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/GuruprasadaShridharHegde?tab=followers"><img src="https://img.shields.io/github/followers/GuruprasadaShridharHegde?style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Followers"/></a>
+
+</div>
+
+<br/>
+
+<!-- Horizontal Divider with Gradient -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="330"/>
+
+```yaml
+name: Guruprasada Shridhar Hegde
+location: Bangalore, India 🇮🇳
+role: Data Engineer
+
+about:
+  - Building scalable ETL/ELT pipelines
+  - Designing cloud data platforms on AWS
+  - Orchestrating workflows with Apache Airflow
+  - Optimizing database performance at scale
+  - Containerizing everything with Docker
+
+education:
+  degree: Bachelor of Engineering (ECE)
+  university: Dayananda Sagar College of Engineering
+
+philosophy: |
+  "Your future is created by what you do today, 
+   not tomorrow."
+
+currently_exploring:
+  - Real-time data streaming
+  - Advanced data modeling patterns
+  - Data mesh architecture
+```
+
+<br clear="both"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
+
+<div align="center">
+
+<!-- Using Skill Icons for a cleaner, more visual look -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,bash,flask,fastapi,django,aws,docker,jenkins,git,github,bitbucket,linux,postgresql,mysql,mongodb,redis,nginx,html,css&perline=10&theme=dark" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**⚡ Languages**
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" height="25"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
+
+</td>
+<td align="center" width="20%">
+
+**🚀 Frameworks**
+<br/><br/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" height="25"/>
+
+</td>
+<td align="center" width="20%">
+
+**🗄️ Databases**
+<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25"/>
+
+</td>
+<td align="center" width="20%">
+
+**☁️ Cloud & DevOps**
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25"/>
+
+</td>
+<td align="center" width="20%">
+
+**🔧 Tools**
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="25"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;What I Do
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Raw Data Sources] -->|Extract| B[Data Pipelines]
+    B -->|Transform| C[Data Warehouse]
+    C -->|Load| D[Business Intelligence]
+    
+    style A fill:#FF6B6B,stroke:#FF6B6B,color:#fff
+    style B fill:#00D9FF,stroke:#00D9FF,color:#fff
+    style C fill:#FFD93D,stroke:#FFD93D,color:#000
+    style D fill:#6BCB77,stroke:#6BCB77,color:#fff
+```
+
+</div>
+
+<div align="center">
+
+| 🏗️ Architecture | ⚙️ Engineering | 📈 Optimization |
+|:---:|:---:|:---:|
+| Data Warehousing | ETL/ELT Pipelines | Query Performance |
+| Cloud Platforms | Workflow Orchestration | Cost Optimization |
+| Data Modeling | CI/CD Automation | System Reliability |
+| API Development | Containerization | Processing Speed |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GuruprasadaShridharHegde&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GuruprasadaShridharHegde&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
+</div>
 
+<br/>
 
-# 💫 About Me :-
-<br>🌱Presently I'm Data Engineer with 2+ Years of Experience in Backend Development, AWS, and Building Data Pipelines. <br><br>👨‍🎓 Completed BE in ECE @Dayananda Sagar College Of Engineering Bangalore [Batch 2022]<br><br>🔭 I’m currently working on Python programming, Rasa platform.<br><br>🌱 I’m currently learning to FastAPI framework.<br><br>👯 I’m looking to collaborate on MNC's or Startup's<br><br>🤔 I’m looking for help with Knowledge Transfer<br><br>💬 Ask me about anything, within my boundaries.<br><br>🛠 Skills: Python Flask FastAPI SQL NoSQL,OOP's, ORM, HTML5, CSS3, JavaScript,Git, GitHub, SVN, MongoDB, PyTest,REST API, Redis, NGINX ,Rasa,Postman API, Docker. <br><br>⁉️ Interests: Software exploring, Programming, digital electronics, circuit designing.<br><br>📍 Hobbies: Drawing, driving, music listening and play games.<br><br>⚡ Real fact: If you expect disappointment, then you can never really be disappointed.<br><br>🎉 Fun fact: No man ever steps in the same river twice, for it's not the same river and he's not the same man.<br><br>❄ Insightful: Your future is created by what you do today, not tomorrow<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<br/>
 
->> import this
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp;GitHub Metrics
 
-The Zen of Python, by Tim Peters
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuruprasadaShridharHegde&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuruprasadaShridharHegde&theme=algolia&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=c9d1d9" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadaShridharHegde&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&layout=compact" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuruprasadaShridharHegde&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🐍 The Zen of Python
+
+<div align="center">
+
+```python
+>>> import this
+
+"""
 Beautiful is better than ugly.
-
 Explicit is better than implicit.
-
 Simple is better than complex.
-
 Complex is better than complicated.
-
 Flat is better than nested.
-
 Sparse is better than dense.
-
 Readability counts.
-
-Special cases aren't special enough to break the rules.
-
-Although practicality beats purity.
-
-Errors should never pass silently.
-
-Unless explicitly silenced.
-
-In the face of ambiguity, refuse the temptation to guess.
-
-There should be one-- and preferably only one --obvious way to do it.
-
-Although that way may not be obvious at first unless you're Dutch.  
-
 Now is better than never.
-
-Although never is often better than *right* now.
-
 If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+"""
+```
 
-If the implementation is easy to explain, it may be a good idea. 
+</div>
 
-Namespaces are one honking great idea -- let's do more of those! 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100083385574254) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guruprasada_s_hegde/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guruprasadashridharhegde/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Guruprasada-Shridhar-Hegde-1DS19EC414) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19766956) <a  href="https://api.whatsapp.com/send?phone=919482152447"> <img align="left" alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> </a> 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cZ7FTQf7XH)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<br/>
 
+## 🌐 Let's Connect
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<div align="center">
 
----
+<a href="https://linkedin.com/in/guruprasadashridharhegde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
+<a href="https://instagram.com/guruprasada_s_hegde/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/></a>&nbsp;
+<a href="https://facebook.com/profile.php?id=100083385574254" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/19766956" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16" alt="Stack Overflow"/></a>&nbsp;
+<a href="https://quora.com/profile/Guruprasada-Shridhar-Hegde-1DS19EC414" target="_blank"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white&labelColor=B92B27" alt="Quora"/></a>&nbsp;
+<a href="https://discord.gg/cZ7FTQf7XH" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/></a>&nbsp;
+<a href="https://api.whatsapp.com/send?phone=919482152447" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/></a>&nbsp;
+<a href="https://tinyurl.com/wpx6zr2e" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge&logoColor=white&labelColor=FF5722" alt="Resume"/></a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GuruprasadaShridharHegde&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GuruprasadaShridharHegde&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuruprasadaShridharHegde&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
---- 
+<div align="center">
 
+### ⚡ "No man ever steps in the same river twice, for it's not the same river and he's not the same man."
 
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
 
-
-
- 
+</div>
